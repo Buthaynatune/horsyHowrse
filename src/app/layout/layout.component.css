@@ -1,0 +1,31 @@
+.app-header {
+  padding: 15px;
+  background-color: #3b3b3b;
+}
+
+.app-title {
+  margin: 0;
+  color: #ffffff;
+}
+
+.app-content {
+  display: flex;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.card {
+  margin:auto;
+  border: 1px solid transparent;
+  background-color: transparent;
+}
+
+.card-body {
+  padding: 45px;
+}
+input[type="radio"] {
+  -ms-transform: scale(1.5); /* IE 9 */
+  -webkit-transform: scale(1.5); /* Chrome, Safari, Opera */
+  transform: scale(1.5);
+}
